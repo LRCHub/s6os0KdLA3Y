@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "海岸通り",
+  "base_artist": "back number",
+  "createdAt": "2026-02-15T14:32:18.979698Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "海岸通り (2016)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/01_海岸通り_(2016)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kaigan Doori 2016 [海岸通り 2016]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/02_Kaigan_Doori_2016_[海岸通り_2016]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "海岸通り",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": false,
+      "path": "select/03_海岸通り_ASIAN_KUNG-FU_GENERATION.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "海岸通り (2016)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/04_海岸通り_(2016)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "海岸通り",
+      "artist": "IRUKA",
+      "has_synced": false,
+      "path": "select/05_海岸通り_IRUKA.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "海岸通り",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/06_海岸通り_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "海岸通り (2016 Version) (2016 Rerecorded)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/07_海岸通り_(2016_Version)_(2016_Rerecorded)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "海岸通り",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/08_海岸通り_back_number.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "海岸通り (2016 Version)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/09_海岸通り_(2016_Version)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "海岸通り",
+      "artist": "Asian Kung-Fu Generation",
+      "has_synced": true,
+      "path": "select/10_海岸通り_Asian_Kung-Fu_Generation.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "海岸通り (2016)",
+      "artist": "Asian Kung-Fu Generation",
+      "has_synced": true,
+      "path": "select/11_海岸通り_(2016)_Asian_Kung-Fu_Generation.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "海岸通り",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_海岸通り_back_number.txt"
+    }
+  ]
+}
